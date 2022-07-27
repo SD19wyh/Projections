@@ -9,8 +9,7 @@
 直接运行即可
 
 **C.代码运行全过程截图**
-
-<img src="C:\Users\zhongh\AppData\Roaming\Typora\typora-user-images\image-20220727145018208.png" alt="image-20220727145018208" style="zoom:67%;" />
+![result.png](https://github.com/SD19wyh/Projections/blob/main/2_biratk/result.png)
 
 **D.每个人的具体贡献说明及贡献排序**
 
