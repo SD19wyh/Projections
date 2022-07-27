@@ -10,7 +10,7 @@ SM3在计算时，会先将消息m补一个1再补0到其长度为512bit的整�
 
 **C.代码运行全过程截图**
 
-<img src="D:\a\创新创业实践\w\长度扩展攻击\result.png" alt="result" style="zoom:67%;" />
+![result.png](https://github.com/SD19wyh/Projections/blob/main/4_extatk/result.png)
 
 **D.每个人的具体贡献说明及贡献排序**
 
