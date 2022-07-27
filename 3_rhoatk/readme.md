@@ -10,7 +10,7 @@
 
 **C.代码运行全过程截图**
 
-![result.png](
+![result.png](https://github.com/SD19wyh/Projections/blob/main/3_rhoatk/result.png)
 
 **D.每个人的具体贡献说明及贡献排序**
 
