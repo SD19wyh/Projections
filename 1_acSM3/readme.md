@@ -18,7 +18,7 @@
 
 **C.代码运行全过程截图**
 
-<img src="C:\Users\zhongh\AppData\Roaming\Typora\typora-user-images\image-20220727092834818.png" alt="image-20220727092834818" style="zoom:67%;" />
+![result.png](https://github.com/SD19wyh/Projections/blob/main/1_acSM3/result.png)
 
 
 
