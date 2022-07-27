@@ -12,7 +12,7 @@
 
 **C.代码运行全过程截图**
 
-![image-20220727220116107](C:\Users\zhongh\AppData\Roaming\Typora\typora-user-images\image-20220727220116107.png)
+![result.png](https://github.com/SD19wyh/Projections/blob/main/5_merkletree/result.png)
 
 **D.每个人的具体贡献说明及贡献排序**
 
