@@ -10,7 +10,7 @@
 
 **C.代码运行全过程截图**
 
-![result](D:\a\创新创业实践\w\椭圆曲线公钥恢复\result.png)
+![result.png](https://github.com/SD19wyh/Projections/blob/main/6_ecdsapk/result.png)
 
 **D.每个人的具体贡献说明及贡献排序**
 
