@@ -17,4 +17,4 @@
 
 6.report on the application of this deduce technique in Ethereum with ECDSA
 
-以上项目全部由本人独自完成
+以上项目由本人独自完成
