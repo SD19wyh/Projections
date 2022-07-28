@@ -11,4 +11,4 @@
 5.Impl Merkle Tree following RFC6962
 6.report on the application of this deduce technique in Ethereum with ECDSA
 
-以上项目全部由本人独立完成
+以上项目全部由本人独自完成
