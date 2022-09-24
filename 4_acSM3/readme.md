@@ -18,7 +18,7 @@
 
 **C.代码运行全过程截图**
 
-![result.png](https://github.com/SD19wyh/Projections/blob/main/1_acSM3/result.png)
+![result.png](https://github.com/SD19wyh/Projections/blob/main/4_acSM3/result.png)
 
 
 
